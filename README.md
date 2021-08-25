@@ -1,3 +1,7 @@
+
+
+
+
 # How-to-program-ESP8266-nodeMCU-with-Arduino-IDE-LED-Blink
 
 ![image](https://user-images.githubusercontent.com/19898602/130723279-c5718b37-814b-44a0-be4d-61a9983007e5.png)
@@ -191,13 +195,28 @@ ESP8266 GPIO PINs Details in reference of ARDUINO IDE
 
 
 
+https://user-images.githubusercontent.com/19898602/130723790-8a1afc2f-16ac-4d14-b86e-7c31e72e5b53.mp4
 
 
 
 
+At last I would like to tell you something about PCB 
+
+Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
+
+like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
+
+but then I came to know about [JLCPCB.com](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+
+there PCB quality is top to the mark now I always go with PCB for my project and [JLCPCB.com](https://jlcpcb.com/IAT) is my trusted 
+
+PCB manufacturer, you can also try there PCB service for more details you can visit their website [JLCPCB.com](https://jlcpcb.com/IAT)
 
 
 
+![MVI_0001 00_04_10_14 Still001](https://user-images.githubusercontent.com/19898602/130724059-6487bb30-e6cc-439f-a38a-a58052126d7f.jpg)
+![MVI_0035 00_03_44_09 Still007](https://user-images.githubusercontent.com/19898602/130724080-99281955-cadb-4679-97f1-456c8223d777.jpg)
+![MVI_5077 00_01_32_03 Still004](https://user-images.githubusercontent.com/19898602/130724116-648354c0-f1b5-4d8c-850c-3b6aff622e67.jpg)
 
 
 
